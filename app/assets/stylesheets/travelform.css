@@ -1,0 +1,28 @@
+.form-info{
+    margin: 0 20%;
+}
+
+.form-info .fa{
+    margin-right: 1rem;
+    font-size: 20px;
+}
+
+.form-info input{
+    border: none;
+    width: 50vw;
+}
+
+ul{
+    margin-left: 19%;
+    list-style-type: none;
+}
+
+li{
+    padding: 10px;
+    width: 20vw;
+    color: white;
+    transition: 1s;
+}
+li:hover{
+    background-color: lightgreen;
+}

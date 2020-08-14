@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
-//import tiger from '../assets/tiger.jpg'
+import tiger from '../images/tiger.jpg'
+import '../../../../assets/stylesheets/index.css'
 
 const Home = () => {
     return (

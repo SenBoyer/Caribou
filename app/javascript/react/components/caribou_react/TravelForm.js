@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Redirect } from "react-router-dom";
+import '../../../../assets/stylesheets/travelform.css'
 
 const TravelForm = (props) => {
 

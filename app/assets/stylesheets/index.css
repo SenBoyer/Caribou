@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  background-image: linear-gradient(lightgreen, yellow) !important;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+a{
+  color: white;
+}
+
+
+.left-links-bar{
+  display: flex;
+   flex-direction: column;
+   margin-left: 2rem;
+}
+
+
+.left-links{
+  margin-top: 8rem;
+}
+.home-text{
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+
+.image-section img{
+  width: 70vw;
+  height: 70vh;
+  position: absolute;
+  right: 5rem;
+  top: 12rem;
+
+}
+
+
+.button{
+  padding: 10px;
+  background: orange;
+  color: white;
+  border-radius: 10%;
+  border: 2px solid green;
+  transition: 1s;
+}
+
+.button:hover{
+  font-size: 1.5rem; 
+  background: lightgreen;
+  text-decoration: none;
+}
+
+.top-bar{
+  background-color: green;
+}
+
+.top-bar ul{
+  display: flex;
+  flex-direction: row;
+  background-color: green;
+}
