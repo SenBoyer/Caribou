@@ -10,7 +10,7 @@ const Home = () => {
           <div className="left-links-bar">
              <div className="left-links"><Link to='/trip' className="button">Plan A Trip</Link></div>
              <div className="left-links"><Link to='/friends' className="button">Your Friends!</Link></div>
-             <div className="left-links"><Link to='#' className="button">Third link</Link></div>
+             <div className="left-links"><Link to='/map' className="button">Third link</Link></div>
           </div>
 
           <div className="image-section">   

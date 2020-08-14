@@ -13,6 +13,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/runtime": "^7.6.2",
     "@rails/webpacker": "3.5",
+    "react-google-maps": "^9.4.5",
     "babel-loader": "^8.0.6",
     "bootstrap": "^4.5.2",
     "prop-types": "~15.6.0",
@@ -50,5 +51,4 @@
       "./spec/javascript/support/enzyme.js"
     ],
     "testURL": "http://localhost/"
-  }
-}
+  }}
